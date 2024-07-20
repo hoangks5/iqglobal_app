@@ -1,0 +1,1 @@
+for %%f in (*.ui) do pyuic6 -x "%%f" -o "%%~nf.py"

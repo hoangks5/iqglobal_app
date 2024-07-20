@@ -1,0 +1,7 @@
+PyQt6
+requests
+pandas
+lightweight_charts
+websockets
+PyQt6-WebEngine
+pyarmor
